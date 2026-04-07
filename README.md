@@ -41,3 +41,4 @@ etc.
 ✓ Static files
 ✓ Migrations
 
+# FASTAPI-ATTENDANCE
