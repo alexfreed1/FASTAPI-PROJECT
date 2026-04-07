@@ -1,0 +1,23 @@
+# Byte-compiled / C extensions
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv/
+env/
+ENV/
+
+# Alembic
+alembic/
+migrations/versions/*.py
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
